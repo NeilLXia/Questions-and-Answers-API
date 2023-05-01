@@ -29,7 +29,7 @@ Hosted on AWS and tested with k6, loader.io, New Relic.
 To run the server, first clone the repository:
 
 ```
-git clone https://github.com/yourusername/yourproject.git
+git clone https:/https://github.com/NeilLXia/Questions-and-Answers-API.git
 ```
 
 Then install the dependencies:
