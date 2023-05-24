@@ -2,7 +2,9 @@
 This project was created by:
 [Neil Xia](https://www.github.com/NeilLXia)
 
-This is an Express.js backend server API with a PostgreSQL database with CRUD functionality. The API allows users to submit questions and answers for a particular product, mark a question or answer as helpful, or report a question or answer to prevent it from being displayed on the product page. The server was tested with load balancing between two servers using NGINX while hosted on AWS. Locally, the server was run using clustering managed by PM2.
+This is an Express.js/Node.js backend server API with a PostgreSQL database with CRUD functionality. The API allows users to submit questions and answers for a particular product, mark a question or answer as helpful, or report a question or answer to prevent it from being displayed on the product page. 
+
+The server was tested with caching and load balancing between two servers using NGINX while hosted on AWS. Locally, the server was run using clustering managed by PM2.
 <br/> <br/>
 
 ## Tech Stack
